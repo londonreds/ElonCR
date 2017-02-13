@@ -1,6 +1,6 @@
 body {
     /*background-color: #290EE9 !important;*/
-    background-image: url("../images/flag.jpg") !important;
+    background: url("../images/flag.jpg") no-repeat center center fixed !important;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
