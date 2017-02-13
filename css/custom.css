@@ -1,10 +1,10 @@
 body {
     /*background-color: #290EE9 !important;*/
     background: url("../images/flag.jpg") no-repeat center center fixed !important;
-    background-attachment: fixed;
+    /*background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: 100%;*/
 }
 
 .btn-danger {
@@ -16,7 +16,7 @@ body {
 }
 
 .jumbotron {
-    background-color: rgba(238, 238, 238, .8) !important;
+    background-color: rgba(238, 238, 238, .9) !important;
 }
 
 h1 {
